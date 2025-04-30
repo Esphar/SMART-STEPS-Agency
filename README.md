@@ -20,7 +20,7 @@ We publish timely and reliable information to help people take smart steps in th
 
 ## Visit the Website
 
-Live site: [https://esphar.github.io/SMART-STEPS-Agency/](https://esphar.github.io/SMART-STEPS-Agency/)
+Live site: [https://github.com/Esphar/SMART-STEPS-Agency.git]
 
 ## Contact
 
