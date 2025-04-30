@@ -10,11 +10,11 @@ Welcome to the official repository of **SMART STEPS Agency** — a digital platf
 
 Smart Steps provides:
 
-- **Job Announcements** (Imirimo)
+- **Job Announcements** 
 - **Scholarships**
 - **Internships**
 - **Application Assistance**
-- **Digital Literacy Tutorials** (Amasomo)
+- **Digital Literacy Tutorials** 
 
 We publish timely and reliable information to help people take smart steps in their careers, education, and personal development.
 
@@ -24,9 +24,9 @@ Live site: [https://esphar.github.io/SMART-STEPS-Agency/](https://esphar.github.
 
 ## Contact
 
-- **Phone / WhatsApp:** +250 789 375 976  
+- **Phone / WhatsApp:** +250789375976  
 - **Email:** espharpicket@gmail.com  
-- **WhatsApp Group:** Send a message to join and receive updates.
+- **WhatsApp Group:** [.](https://chat.whatsapp.com/GLRhc9K2f7LEXot7o7QmWU)
 
 ## Contributing
 
