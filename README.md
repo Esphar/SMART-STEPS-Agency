@@ -4,7 +4,7 @@ README.md
 
 # SMART STEPS Agency
 
-Welcome to the official repository of **SMART STEPS Agency** — a digital platform dedicated to helping youth and job seekers in Rwanda and beyond access verified opportunities and gain essential skills.
+Welcome to the official repository of **SMART STEPS ** — a digital platform dedicated to helping youth and job seekers in Rwanda and beyond access verified opportunities and gain essential skills.
 
 ## What We Do
 
